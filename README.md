@@ -178,6 +178,13 @@ Execute the SQL queries in `02_SQL_Queries/insurance_analytics_queries.sql` agai
 - `capital_adequacy_ratios.csv`: Capital adequacy metrics
 - `reserve_monitoring_dashboard.png`: Reserve monitoring visualizations
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/6f9e89e2-71a3-47ab-a57d-f76fbbedfdac" />
+<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/12b37b3b-0eb8-450d-bacb-911fe7e2d1fb" />
+<img width="1197" height="867" alt="image" src="https://github.com/user-attachments/assets/35be9331-aafb-4e6d-947a-282417441bac" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/63e0cd64-76b7-4ccd-8711-90416825b9b6" />
+
+
+
 ## Key Features & Capabilities
 
 ### Advanced Analytics
